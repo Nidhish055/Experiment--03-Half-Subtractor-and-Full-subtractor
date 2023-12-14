@@ -42,6 +42,16 @@ assign borrow=~a&b;
 endmodule
 ~~~
 
+## RTL realization:
+![image](https://github.com/Nidhish055/Experiment--03-Half-Subtractor-and-Full-subtractor/assets/145979818/af4dd46a-5d0d-411f-8663-82ea12f78efb)
+
+## Truth Table:
+![image](https://github.com/Nidhish055/Experiment--03-Half-Subtractor-and-Full-subtractor/assets/145979818/685d112b-b601-4b32-a051-66147013ca26)
+
+## Timing Diagram:
+![image](https://github.com/Nidhish055/Experiment--03-Half-Subtractor-and-Full-subtractor/assets/145979818/1e63085d-ed46-4ade-95dc-5d216f1cdf67)
+
+
 ## Full Subtractor
 A full subtractor is a combinational circuit that performs subtraction involving three bits, namely minuend, subtrahend, and borrow-in . It accepts three inputs: minuend, subtrahend and a borrow bit and it produces two outputs: difference and borrow. 
 ![full-subtractor6](https://user-images.githubusercontent.com/36288975/166112541-24c68359-3de8-4674-ae22-8272ffc385ed.png)
