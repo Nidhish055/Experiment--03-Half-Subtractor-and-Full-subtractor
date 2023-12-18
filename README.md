@@ -46,7 +46,7 @@ endmodule
 ![image](https://github.com/Nidhish055/Experiment--03-Half-Subtractor-and-Full-subtractor/assets/145979818/af4dd46a-5d0d-411f-8663-82ea12f78efb)
 
 ## Truth Table:
-![image](https://github.com/Nidhish055/Experiment--03-Half-Subtractor-and-Full-subtractor/assets/145979818/685d112b-b601-4b32-a051-66147013ca26)
+![image](https://github.com/Nidhish055/Experiment--03-Half-Subtractor-and-Full-subtractor/assets/145979818/5a6e4b81-6b2b-405c-9b27-bb6454197478)
 
 ## Timing Diagram:
 ![image](https://github.com/Nidhish055/Experiment--03-Half-Subtractor-and-Full-subtractor/assets/145979818/1e63085d-ed46-4ade-95dc-5d216f1cdf67)
@@ -73,11 +73,11 @@ endmodule
 ##  RTL realization:
 ![image](https://github.com/Nidhish055/Experiment--03-Half-Subtractor-and-Full-subtractor/assets/145979818/47eba206-f0e0-45cb-a9eb-6a2c2ab6d08d)
 
-## Timing Diagram:
-![image](https://github.com/Nidhish055/Experiment--03-Half-Subtractor-and-Full-subtractor/assets/145979818/3eb2cf92-ad1e-47b7-96f2-f35c7f309709)
-
 ## Truth Table:
 ![image](https://github.com/Nidhish055/Experiment--03-Half-Subtractor-and-Full-subtractor/assets/145979818/1da0b231-ac43-4d24-942a-cc30ee2ebeaa)
+
+## Timing Diagram:
+![image](https://github.com/Nidhish055/Experiment--03-Half-Subtractor-and-Full-subtractor/assets/145979818/3eb2cf92-ad1e-47b7-96f2-f35c7f309709)
 
 ## Result:
 Thus the half subtractor and full subtractor circuits are designed and the truth tables is verified using quartus software.
