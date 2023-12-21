@@ -28,7 +28,7 @@ Carry=X'Y
 
 3.Use defined keywords like wire,assign and required logic gates to represent the boolean expression.
 
-4.Use each output to represent one for differnce and the other for borrow.
+4.Use each output to represent one for difference and the other for borrow.
 
 5.End the verilog program using keyword endmodule
 
